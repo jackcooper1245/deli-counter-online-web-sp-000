@@ -1,5 +1,9 @@
 katz_deli = []
 
 def line(katz_deli)
-katz_deli.length == 0 ? "The line is currently empty." : ""
+if katz_deli.length == 0 
+  puts "The line is currently empty."
+else
+  queue = []
+  
 end
