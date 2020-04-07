@@ -6,5 +6,5 @@ if katz_deli.length == 0
 else
   queue = []
   counter = 1
-  
+  katz_deli.
 end
