@@ -1,7 +1,7 @@
 katz_deli = []
 
 def line(katz_deli)
-katz_deli.each do |name|
+katz_deli
   
 
 end
