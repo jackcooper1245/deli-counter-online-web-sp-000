@@ -9,5 +9,5 @@ else
   katz_deli.each do |name|
     queue.push("#{counter}. #{name}")
     counter += 1
-    
+    puts "The line is currently: #{queue.join(" ")}" 
 end
