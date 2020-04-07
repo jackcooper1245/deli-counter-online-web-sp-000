@@ -10,4 +10,5 @@ else
     queue.push("#{counter}. #{name}")
     counter += 1
     puts "The line is currently: #{queue.join(" ")}" 
+  end
 end
