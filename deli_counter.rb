@@ -7,5 +7,5 @@ else
   queue = []
   counter = 1
   katz_deli.each do |name|
-    queue.push 
+    queue.push("#{counter}. #{name})
 end
