@@ -8,4 +8,6 @@ else
   counter = 1
   katz_deli.each do |name|
     queue.push("#{counter}. #{name}")
+    counter += 1
+    
 end
